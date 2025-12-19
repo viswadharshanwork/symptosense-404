@@ -56,9 +56,9 @@ Early symptom awareness can significantly reduce health risks, but accessible an
 ✔ No backend  
 ✔ No APIs  
 
-> *“SymptoSense is an AI-powered health awareness assistant designed to bridge the gap between symptoms and timely medical attention.  
+> SymptoSense is an AI-powered health awareness assistant designed to bridge the gap between symptoms and timely medical attention.  
 > Instead of black-box predictions, it uses explainable AI to show how health risks are calculated and refined.  
-> Our goal is not diagnosis, but early awareness that can save lives.”*
+> Our goal is not diagnosis, but early awareness that can save lives.
 
  Future Enhancements
 - Integration with real medical datasets  
