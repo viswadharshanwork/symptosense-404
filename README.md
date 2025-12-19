@@ -41,7 +41,7 @@ Early symptom awareness can significantly reduce health risks, but accessible an
   - Awareness disclaimer  
 
 
- AI & ML Logic (Simplified)
+ AI & ML Logic 
 
 - Each symptom is assigned a relevance weight  
 - Critical symptoms influence risk more strongly  
